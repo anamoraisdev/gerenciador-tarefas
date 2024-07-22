@@ -1,6 +1,6 @@
 body{
     font-family: 'Lato';
-    background-image:linear-gradient(45deg, rgb(245, 186, 152), rgb(253, 101, 0));
+    background-image:linear-gradient(45deg, #ffc82f, #fc5300);
 }
 .Login{
     background-color: rgba(0, 0, 0, 0.8);
@@ -17,6 +17,7 @@ body{
     font-size: 50px;
     position: absolute;
     left: 38%;
+    align-items: center;
 
 }
 .register{
